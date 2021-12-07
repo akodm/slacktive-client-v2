@@ -5,7 +5,7 @@
   "author": "akodm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akodm"
+    "url": "https://github.com/akodm/slacktive-client-v2"
   },
   "engines": {
     "node": ">=16.13.0"
